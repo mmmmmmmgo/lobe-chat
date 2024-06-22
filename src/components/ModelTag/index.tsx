@@ -1,3 +1,4 @@
+'use client';
 import { Tag } from '@lobehub/ui';
 import { memo } from 'react';
 

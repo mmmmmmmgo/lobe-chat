@@ -1,3 +1,4 @@
+'use client';
 import { type ChatItemProps } from '@lobehub/ui';
 import { ActionEvent } from '@lobehub/ui';
 import { FC, ReactNode } from 'react';

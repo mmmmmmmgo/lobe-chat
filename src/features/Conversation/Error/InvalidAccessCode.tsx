@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Segmented } from 'antd';
 import { SegmentedLabeledOption } from 'antd/es/segmented';

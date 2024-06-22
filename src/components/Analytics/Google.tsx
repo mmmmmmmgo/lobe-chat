@@ -1,3 +1,4 @@
+'use client';
 import { GoogleAnalytics as GA } from '@next/third-parties/google';
 
 import { analyticsEnv } from '@/config/analytics';

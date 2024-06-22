@@ -1,3 +1,4 @@
+'use client';
 import { Modal, TabsNav } from '@lobehub/ui';
 import { Divider, TabsProps } from 'antd';
 import { memo } from 'react';

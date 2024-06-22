@@ -1,3 +1,4 @@
+'use client';
 import { t } from 'i18next';
 
 import { notification } from '@/components/AntdStaticMethods';

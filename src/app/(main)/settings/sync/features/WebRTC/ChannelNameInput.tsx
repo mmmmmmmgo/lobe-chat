@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Input, InputProps } from 'antd';
 import { FormInstance } from 'antd/es/form/hooks/useForm';

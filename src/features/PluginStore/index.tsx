@@ -1,3 +1,4 @@
+'use client';
 import { Modal } from '@lobehub/ui';
 import { Segmented } from 'antd';
 import { memo } from 'react';

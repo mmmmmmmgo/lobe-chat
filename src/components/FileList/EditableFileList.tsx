@@ -1,3 +1,4 @@
+'use client';
 import { ImageGallery } from '@lobehub/ui';
 import { useResponsive } from 'antd-style';
 import { memo } from 'react';

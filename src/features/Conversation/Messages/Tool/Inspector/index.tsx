@@ -1,3 +1,4 @@
+'use client';
 import { Loading3QuartersOutlined } from '@ant-design/icons';
 import { ActionIcon, Avatar, Highlighter, Icon, Tag } from '@lobehub/ui';
 import { Tabs } from 'antd';

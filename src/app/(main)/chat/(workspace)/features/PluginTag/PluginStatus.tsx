@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Badge, Button, Tag } from 'antd';
 import isEqual from 'fast-deep-equal';

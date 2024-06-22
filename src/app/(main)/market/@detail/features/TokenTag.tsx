@@ -1,3 +1,4 @@
+'use client';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';
 

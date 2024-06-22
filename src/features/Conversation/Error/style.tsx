@@ -1,3 +1,4 @@
+'use client';
 import { Avatar } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { ReactNode, memo } from 'react';

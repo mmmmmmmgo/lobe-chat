@@ -1,3 +1,4 @@
+'use client';
 import { Tooltip } from '@lobehub/ui';
 import { Tag } from 'antd';
 import { useTheme } from 'antd-style';

@@ -1,3 +1,4 @@
+'use client';
 import { Tag } from '@lobehub/ui';
 import { App, Button, Typography } from 'antd';
 import isEqual from 'fast-deep-equal';

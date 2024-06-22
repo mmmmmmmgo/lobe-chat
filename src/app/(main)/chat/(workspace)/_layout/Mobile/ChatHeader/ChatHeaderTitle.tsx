@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, MobileNavBarTitle } from '@lobehub/ui';
 import { useTheme } from 'antd-style';
 import { ChevronDown } from 'lucide-react';

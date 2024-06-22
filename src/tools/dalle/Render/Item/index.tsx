@@ -1,3 +1,4 @@
+'use client';
 import { Highlighter, Icon } from '@lobehub/ui';
 import { Spin } from 'antd';
 import { createStyles } from 'antd-style';

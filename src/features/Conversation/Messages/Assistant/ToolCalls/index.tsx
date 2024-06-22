@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, Icon } from '@lobehub/ui';
 import isEqual from 'fast-deep-equal';
 import { Loader2, LucideChevronDown, LucideChevronRight, LucideToyBrick } from 'lucide-react';

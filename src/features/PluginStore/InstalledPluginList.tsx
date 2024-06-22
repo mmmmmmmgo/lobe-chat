@@ -1,3 +1,4 @@
+'use client';
 import { SearchBar } from '@lobehub/ui';
 import isEqual from 'fast-deep-equal';
 import { memo, useMemo, useState } from 'react';

@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Button, Skeleton, Space } from 'antd';
 import { createStyles } from 'antd-style';

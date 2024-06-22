@@ -1,3 +1,4 @@
+'use client';
 import { notFound } from 'next/navigation';
 import { PropsWithChildren } from 'react';
 import { Center, Flexbox } from 'react-layout-kit';

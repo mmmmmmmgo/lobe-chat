@@ -1,3 +1,4 @@
+'use client';
 import UpgradeAlert from '../features/UpgradeAlert';
 import CategoryContent from './features/CategoryContent';
 

@@ -1,3 +1,4 @@
+'use client';
 import SkeletonLoading from '@/components/SkeletonLoading';
 
 export default () => {

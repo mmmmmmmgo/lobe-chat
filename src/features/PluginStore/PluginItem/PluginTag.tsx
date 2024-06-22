@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Tag } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { BadgeCheck, CircleUser, Package } from 'lucide-react';

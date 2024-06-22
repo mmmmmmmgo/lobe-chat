@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Typography } from '@lobehub/ui';
 import { Button, Divider, Tag } from 'antd';
 import { Github, Settings, Share2 } from 'lucide-react';

@@ -1,3 +1,4 @@
+'use client';
 import { Empty } from 'antd';
 import { createStyles } from 'antd-style';
 import Link from 'next/link';

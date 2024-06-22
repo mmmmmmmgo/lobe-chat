@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon } from '@lobehub/ui';
 import { App, Typography } from 'antd';
 import isEqual from 'fast-deep-equal';

@@ -1,3 +1,4 @@
+'use client';
 // EntryComponent.test.tsx
 import { render } from '@testing-library/react';
 import { App } from 'antd';

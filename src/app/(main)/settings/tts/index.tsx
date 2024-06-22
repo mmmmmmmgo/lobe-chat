@@ -1,3 +1,4 @@
+'use client';
 import OpenAI from './features/OpenAI';
 import STT from './features/STT';
 

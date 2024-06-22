@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { useTheme } from 'antd-style';
 import { LucideIcon, SquareArrowOutUpRight } from 'lucide-react';

@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon, Modal } from '@lobehub/ui';
 import { Button, Skeleton } from 'antd';
 import { useResponsive } from 'antd-style';

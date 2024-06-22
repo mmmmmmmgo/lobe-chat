@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Blocks, Bot, BrainCog, MessagesSquare, Mic2, UserCircle } from 'lucide-react';
 import { useMemo } from 'react';

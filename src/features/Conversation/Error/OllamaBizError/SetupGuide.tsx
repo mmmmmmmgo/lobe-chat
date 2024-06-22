@@ -1,3 +1,4 @@
+'use client';
 import { Highlighter, Snippet, TabsNav } from '@lobehub/ui';
 import { Steps } from 'antd';
 import { createStyles } from 'antd-style';

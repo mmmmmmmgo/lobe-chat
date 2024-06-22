@@ -1,4 +1,4 @@
-import { gerServerDeviceInfo, isMobileDevice } from '@/utils/responsive';
+import { gerServerDeviceInfo, isMobileDevice } from '@/utils/responsive-server';
 
 import SettingsModal from './index';
 

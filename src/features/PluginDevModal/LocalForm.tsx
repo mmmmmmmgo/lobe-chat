@@ -1,3 +1,4 @@
+'use client';
 import { Form, FormItemProps, Input, TextArea } from '@lobehub/ui';
 import { FormInstance } from 'antd';
 import dynamic from 'next/dynamic';

@@ -1,3 +1,4 @@
+'use client';
 export interface ImageFileItem {
   alt?: string;
   id: string;

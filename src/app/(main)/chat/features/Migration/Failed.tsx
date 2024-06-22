@@ -1,3 +1,4 @@
+'use client';
 import { Alert, Highlighter, Icon } from '@lobehub/ui';
 import { Button, Popconfirm, Result } from 'antd';
 import { useTheme } from 'antd-style';

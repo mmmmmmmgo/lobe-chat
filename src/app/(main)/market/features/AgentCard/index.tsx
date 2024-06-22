@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, Tag } from '@lobehub/ui';
 import { Typography } from 'antd';
 import { createStyles } from 'antd-style';

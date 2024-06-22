@@ -1,3 +1,4 @@
+'use client';
 import {
   PrimaryColors,
   Swatches,

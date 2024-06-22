@@ -1,3 +1,4 @@
+'use client';
 import { memo, useEffect } from 'react';
 
 const PageTitle = memo<{ title: string }>(({ title }) => {

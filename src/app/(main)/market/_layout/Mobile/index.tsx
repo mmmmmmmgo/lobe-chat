@@ -1,3 +1,4 @@
+'use client';
 import MobileContentLayout from '@/components/server/MobileNavLayout';
 
 import { LayoutProps } from '../type';

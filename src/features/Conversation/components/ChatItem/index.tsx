@@ -1,3 +1,4 @@
+'use client';
 import { ChatItem } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import isEqual from 'fast-deep-equal';

@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, ImageGallery } from '@lobehub/ui';
 import { Download } from 'lucide-react';
 import { memo, useRef } from 'react';

@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Blocks, LucideLoader2 } from 'lucide-react';
 import { Suspense, memo } from 'react';

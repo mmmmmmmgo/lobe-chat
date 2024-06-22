@@ -1,3 +1,4 @@
+'use client';
 import { TextArea } from '@lobehub/ui';
 import { Button, Radio, Select } from 'antd';
 import { memo } from 'react';

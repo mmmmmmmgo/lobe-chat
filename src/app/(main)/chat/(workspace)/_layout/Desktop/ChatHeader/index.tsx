@@ -1,3 +1,4 @@
+'use client';
 import { ChatHeader } from '@lobehub/ui';
 
 import HeaderAction from './HeaderAction';

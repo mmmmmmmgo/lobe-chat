@@ -1,3 +1,4 @@
+'use client';
 import { CollapseProps } from 'antd';
 import isEqual from 'fast-deep-equal';
 import { memo, useMemo, useState } from 'react';

@@ -1,3 +1,4 @@
+'use client';
 import { memo, useMemo } from 'react';
 import { Md5 } from 'ts-md5';
 

@@ -1,3 +1,4 @@
+'use client';
 import { Flexbox } from 'react-layout-kit';
 
 import Migration from '../../features/Migration';

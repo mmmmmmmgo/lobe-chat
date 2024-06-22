@@ -1,3 +1,4 @@
+'use client';
 import { Markdown } from '@lobehub/ui';
 import { memo } from 'react';
 

@@ -1,3 +1,4 @@
+'use client';
 import { Tag } from 'antd';
 import { Bot, Brain, Cloudy, Info, Mic2, Settings2, Sparkles } from 'lucide-react';
 import { useRouter } from 'next/navigation';

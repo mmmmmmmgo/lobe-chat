@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon } from '@lobehub/ui';
 import { Button } from 'antd';
 import { Share2 } from 'lucide-react';

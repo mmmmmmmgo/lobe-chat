@@ -1,3 +1,4 @@
+'use client';
 import { GridShowcase } from '@lobehub/ui';
 import { LobeHub } from '@lobehub/ui/brand';
 import { PropsWithChildren } from 'react';

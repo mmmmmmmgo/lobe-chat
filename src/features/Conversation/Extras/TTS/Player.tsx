@@ -1,3 +1,4 @@
+'use client';
 import { AudioPlayer, AudioPlayerProps } from '@lobehub/tts/react';
 import { ActionIcon, Alert, Highlighter } from '@lobehub/ui';
 import { Button } from 'antd';

@@ -1,3 +1,4 @@
+'use client';
 import { Analytics } from '@vercel/analytics/react';
 import { memo } from 'react';
 

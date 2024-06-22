@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { LucideSettings } from 'lucide-react';
 import { memo, useState } from 'react';

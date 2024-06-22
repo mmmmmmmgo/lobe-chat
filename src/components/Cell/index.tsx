@@ -1,3 +1,4 @@
+'use client';
 import { Icon, IconProps } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { ChevronRight } from 'lucide-react';

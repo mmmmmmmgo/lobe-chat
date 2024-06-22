@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon } from '@lobehub/ui';
 import { Button, Dropdown, MenuProps } from 'antd';
 import { HardDriveDownload } from 'lucide-react';

@@ -1,3 +1,4 @@
+'use client';
 import { TooltipPlacement } from 'antd/es/tooltip';
 import { memo } from 'react';
 

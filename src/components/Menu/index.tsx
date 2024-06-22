@@ -1,3 +1,4 @@
+'use client';
 import { Menu as AntdMenu, MenuProps as AntdMenuProps, ConfigProvider } from 'antd';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';

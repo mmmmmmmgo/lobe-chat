@@ -21,11 +21,10 @@ import {
   X,
   mailTo,
 } from '@/const/url';
-import { useServerConfigStore } from '@/store/serverConfig';
-import { serverConfigSelectors } from '@/store/serverConfig/selectors';
+// import { useServerConfigStore } from '@/store/serverConfig';
+// import { serverConfigSelectors } from '@/store/serverConfig/selectors';
 
 import AboutList from './features/AboutList';
-import Analytics from './features/Analytics';
 import ItemCard from './features/ItemCard';
 import ItemLink from './features/ItemLink';
 import Version from './features/Version';
@@ -41,11 +40,10 @@ const useStyles = createStyles(({ css, token }) => ({
 const Page = memo<{ mobile?: boolean }>(({ mobile }) => {
   const { t } = useTranslation('common');
   const { styles } = useStyles();
-  const enabledTelemetryChat = useServerConfigStore(serverConfigSelectors.enabledTelemetryChat);
+  // const enabledTelemetryChat = useServerConfigStore(serverConfigSelectors.enabledTelemetryChat);
 
   return (
-    <>
-      <Form.Group style={{ width: '100%' }} title={`${t('about')} LobeChat`} variant={'pure'}>
+    <Form.Group style={{ width: '100%' }} title={`${t('about')} LobeChat`} variant={'pure'}>
         <Flexbox gap={20} paddingBlock={20} width={'100%'}>
           <div className={styles.title}>{t('version')}</div>
           <Version mobile={mobile} />
@@ -129,8 +127,6 @@ const Page = memo<{ mobile?: boolean }>(({ mobile }) => {
           />
         </Flexbox>
       </Form.Group>
-      {enabledTelemetryChat && <Analytics />}
-    </>
   );
 });
 

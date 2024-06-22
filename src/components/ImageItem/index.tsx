@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Image } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { Trash } from 'lucide-react';

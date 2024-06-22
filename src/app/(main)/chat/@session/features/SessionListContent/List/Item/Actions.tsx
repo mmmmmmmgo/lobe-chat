@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon } from '@lobehub/ui';
 import { App, Dropdown } from 'antd';
 import { createStyles } from 'antd-style';

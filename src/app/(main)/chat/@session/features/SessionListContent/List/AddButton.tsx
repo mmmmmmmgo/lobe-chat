@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Button } from 'antd';
 import { Plus } from 'lucide-react';

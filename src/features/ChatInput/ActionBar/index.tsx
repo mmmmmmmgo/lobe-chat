@@ -1,3 +1,4 @@
+'use client';
 import { ChatInputActionBar } from '@lobehub/ui';
 import { ReactNode, memo, useMemo } from 'react';
 

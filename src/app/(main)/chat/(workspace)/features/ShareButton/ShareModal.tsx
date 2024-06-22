@@ -1,3 +1,4 @@
+'use client';
 import { Form, type FormItemProps, Modal, type ModalProps } from '@lobehub/ui';
 import { Button, Segmented, SegmentedProps, Switch } from 'antd';
 import { memo, useMemo, useState } from 'react';

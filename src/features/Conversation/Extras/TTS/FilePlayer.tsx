@@ -1,3 +1,4 @@
+'use client';
 import { useAudioPlayer } from '@lobehub/tts/react';
 import { memo, useCallback } from 'react';
 

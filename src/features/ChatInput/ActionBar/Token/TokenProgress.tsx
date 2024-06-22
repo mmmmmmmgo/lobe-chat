@@ -1,3 +1,4 @@
+'use client';
 import { Divider } from 'antd';
 import { useTheme } from 'antd-style';
 import numeral from 'numeral';

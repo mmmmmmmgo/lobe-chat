@@ -1,3 +1,4 @@
+'use client';
 import { Icon, SearchBar } from '@lobehub/ui';
 import { Empty } from 'antd';
 import isEqual from 'fast-deep-equal';

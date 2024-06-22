@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, DivProps } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { memo } from 'react';

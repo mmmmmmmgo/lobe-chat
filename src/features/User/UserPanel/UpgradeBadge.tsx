@@ -1,3 +1,4 @@
+'use client';
 import { Badge, ConfigProvider } from 'antd';
 import { PropsWithChildren, memo } from 'react';
 import { Flexbox } from 'react-layout-kit';

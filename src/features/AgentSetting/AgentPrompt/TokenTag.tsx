@@ -1,3 +1,4 @@
+'use client';
 import { TokenTag } from '@lobehub/ui';
 import { memo } from 'react';
 import { useTranslation } from 'react-i18next';

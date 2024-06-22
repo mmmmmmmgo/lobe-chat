@@ -1,3 +1,4 @@
+'use client';
 import { Checkbox, Form, FormInstance, Input } from 'antd';
 import { memo, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';

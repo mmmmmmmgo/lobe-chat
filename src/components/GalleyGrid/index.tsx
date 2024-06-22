@@ -1,3 +1,4 @@
+'use client';
 import { useResponsive } from 'antd-style';
 import { ReactNode, memo, useMemo } from 'react';
 import { Flexbox } from 'react-layout-kit';

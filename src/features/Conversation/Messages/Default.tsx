@@ -1,3 +1,4 @@
+'use client';
 import { ReactNode, memo } from 'react';
 
 import { LOADING_FLAT } from '@/const/message';

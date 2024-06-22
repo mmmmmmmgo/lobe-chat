@@ -1,3 +1,4 @@
+'use client';
 import { Alert, Highlighter, Icon } from '@lobehub/ui';
 import { Button } from 'antd';
 import { LucideRefreshCw } from 'lucide-react';

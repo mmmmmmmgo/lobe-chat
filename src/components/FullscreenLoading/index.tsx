@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { LobeChat } from '@lobehub/ui/brand';
 import { Loader2 } from 'lucide-react';

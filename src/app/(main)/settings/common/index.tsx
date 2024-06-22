@@ -1,3 +1,4 @@
+'use client';
 import Common from './features/Common';
 import Theme from './features/Theme';
 

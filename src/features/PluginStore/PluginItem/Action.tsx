@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Icon } from '@lobehub/ui';
 import { App, Button, Dropdown } from 'antd';
 import { InfoIcon, MoreVerticalIcon, Settings, Trash2 } from 'lucide-react';

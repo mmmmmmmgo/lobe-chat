@@ -1,3 +1,4 @@
+'use client';
 import { Input, Modal, type ModalProps } from '@lobehub/ui';
 import { App } from 'antd';
 import isEqual from 'fast-deep-equal';

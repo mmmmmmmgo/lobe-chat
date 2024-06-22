@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, Form } from '@lobehub/ui';
 import { Form as AForm, Card, FormInstance } from 'antd';
 import { memo } from 'react';

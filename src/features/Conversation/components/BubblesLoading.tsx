@@ -1,3 +1,4 @@
+'use client';
 import { css, cx, useTheme } from 'antd-style';
 import { Center } from 'react-layout-kit';
 

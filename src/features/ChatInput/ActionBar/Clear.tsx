@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Popconfirm } from 'antd';
 import { Eraser } from 'lucide-react';

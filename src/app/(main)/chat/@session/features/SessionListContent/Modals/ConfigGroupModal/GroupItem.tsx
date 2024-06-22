@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, EditableText, SortableList } from '@lobehub/ui';
 import { App } from 'antd';
 import { createStyles } from 'antd-style';

@@ -1,3 +1,4 @@
+'use client';
 import { Giscus } from '@lobehub/ui';
 import { memo } from 'react';
 

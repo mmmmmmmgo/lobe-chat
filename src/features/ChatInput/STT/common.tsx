@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Alert, Highlighter } from '@lobehub/ui';
 import { Button, Dropdown } from 'antd';
 import { createStyles } from 'antd-style';

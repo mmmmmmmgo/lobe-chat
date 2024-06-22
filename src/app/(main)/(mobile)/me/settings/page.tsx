@@ -2,7 +2,7 @@ import { redirect } from 'next/navigation';
 
 import { metadataModule } from '@/server/metadata';
 import { translation } from '@/server/translation';
-import { isMobileDevice } from '@/utils/responsive';
+import { isMobileDevice } from '@/utils/responsive-server';
 
 import Category from './features/Category';
 

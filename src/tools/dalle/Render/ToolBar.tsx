@@ -1,3 +1,4 @@
+'use client';
 import { Button, Checkbox } from 'antd';
 import { memo } from 'react';
 import { useTranslation } from 'react-i18next';

@@ -1,3 +1,4 @@
+'use client';
 import EditPage from './features/EditPage';
 
 const Page = () => {

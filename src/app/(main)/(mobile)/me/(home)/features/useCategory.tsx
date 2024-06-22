@@ -1,3 +1,4 @@
+'use client';
 import { DiscordIcon } from '@lobehub/ui';
 import { Book, CircleUserRound, Database, Download, Feather, Settings2 } from 'lucide-react';
 import { useRouter } from 'next/navigation';

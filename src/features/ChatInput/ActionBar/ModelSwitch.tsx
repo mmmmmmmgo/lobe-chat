@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Brain } from 'lucide-react';
 import { memo } from 'react';

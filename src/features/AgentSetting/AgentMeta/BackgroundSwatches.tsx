@@ -1,3 +1,4 @@
+'use client';
 import { Swatches, primaryColorsSwatches } from '@lobehub/ui';
 import { memo } from 'react';
 

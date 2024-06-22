@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, SliderWithInput } from '@lobehub/ui';
 import { Popover } from 'antd';
 import { Thermometer } from 'lucide-react';

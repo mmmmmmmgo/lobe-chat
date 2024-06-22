@@ -1,3 +1,4 @@
+'use client';
 import { memo, useEffect } from 'react';
 
 import { useChatStore } from '@/store/chat';

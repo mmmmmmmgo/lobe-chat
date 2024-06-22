@@ -1,3 +1,4 @@
+'use client';
 import { IPluginErrorType, PluginErrorType } from '@lobehub/chat-plugin-sdk';
 import type { AlertProps } from '@lobehub/ui';
 import { Skeleton } from 'antd';

@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { App, Button } from 'antd';
 import { ScanFace } from 'lucide-react';

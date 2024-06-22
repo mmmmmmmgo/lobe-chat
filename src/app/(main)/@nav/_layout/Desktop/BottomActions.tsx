@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Book, Github } from 'lucide-react';
 import Link from 'next/link';

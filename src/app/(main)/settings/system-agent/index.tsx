@@ -1,3 +1,4 @@
+'use client';
 import AgentMeta from './features/AgentMeta';
 import Topic from './features/Topic';
 import Translation from './features/Translation';

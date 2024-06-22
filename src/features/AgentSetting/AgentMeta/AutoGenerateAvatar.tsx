@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { useTheme } from 'antd-style';
 import { Wand2 } from 'lucide-react';

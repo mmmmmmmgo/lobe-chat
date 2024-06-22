@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Button, Result } from 'antd';
 import { CheckCircle, CpuIcon } from 'lucide-react';

@@ -1,3 +1,4 @@
+'use client';
 import { Ollama } from '@lobehub/icons';
 import { Button, Input, Progress } from 'antd';
 import { useTheme } from 'antd-style';

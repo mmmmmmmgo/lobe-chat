@@ -1,3 +1,4 @@
+'use client';
 import { FC } from 'react';
 
 const StructuredData: FC<{ ld: any }> = ({ ld }) => {

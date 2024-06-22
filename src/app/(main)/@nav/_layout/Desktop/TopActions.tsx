@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Compass, MessageSquare } from 'lucide-react';
 import Link from 'next/link';

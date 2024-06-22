@@ -1,3 +1,4 @@
+'use client';
 import { Alert, Highlighter, Icon } from '@lobehub/ui';
 import { Button, Result } from 'antd';
 import { ShieldAlert } from 'lucide-react';

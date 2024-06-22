@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Maximize2, Minimize2 } from 'lucide-react';
 import { memo } from 'react';

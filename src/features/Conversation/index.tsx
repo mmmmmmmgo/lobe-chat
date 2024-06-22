@@ -1,3 +1,4 @@
+'use client';
 import { Suspense, lazy } from 'react';
 import { Flexbox } from 'react-layout-kit';
 

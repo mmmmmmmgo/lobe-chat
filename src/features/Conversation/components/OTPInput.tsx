@@ -1,3 +1,4 @@
+'use client';
 import { useControllableValue } from 'ahooks';
 import { createStyles } from 'antd-style';
 import React, { memo } from 'react';

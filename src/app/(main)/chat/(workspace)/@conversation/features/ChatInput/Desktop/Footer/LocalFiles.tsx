@@ -1,3 +1,4 @@
+'use client';
 import { memo } from 'react';
 
 import { EditableFileList } from '@/features/FileList';

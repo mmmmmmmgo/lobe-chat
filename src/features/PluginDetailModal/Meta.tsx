@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, Tag } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import isEqual from 'fast-deep-equal';

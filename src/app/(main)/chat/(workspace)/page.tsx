@@ -2,7 +2,7 @@ import StructuredData from '@/components/StructuredData';
 import { ldModule } from '@/server/ld';
 import { metadataModule } from '@/server/metadata';
 import { translation } from '@/server/translation';
-import { isMobileDevice } from '@/utils/responsive';
+import { isMobileDevice } from '@/utils/responsive-server';
 
 import PageTitle from '../features/PageTitle';
 import TelemetryNotification from './features/TelemetryNotification';

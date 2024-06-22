@@ -1,3 +1,4 @@
+'use client';
 import Alert from './features/Alert';
 import DeviceInfo from './features/DeviceInfo';
 import WebRTC from './features/WebRTC';

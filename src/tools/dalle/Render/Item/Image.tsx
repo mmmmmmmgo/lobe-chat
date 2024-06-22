@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Image, Tooltip } from '@lobehub/ui';
 import { Loader2 } from 'lucide-react';
 import { memo } from 'react';

@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Avatar, Icon } from '@lobehub/ui';
 import { Divider, Popover, Switch, Tag, Typography } from 'antd';
 import { createStyles } from 'antd-style';

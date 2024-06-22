@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, Tooltip } from '@lobehub/ui';
 import { Typography } from 'antd';
 import { useTheme } from 'antd-style';

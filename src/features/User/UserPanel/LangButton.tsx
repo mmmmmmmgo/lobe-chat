@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon } from '@lobehub/ui';
 import { Popover } from 'antd';
 import { useTheme } from 'antd-style';

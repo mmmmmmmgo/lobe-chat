@@ -1,3 +1,4 @@
+'use client';
 import AgentChat from './AgentChat';
 import AgentMeta from './AgentMeta';
 import AgentModal from './AgentModal';

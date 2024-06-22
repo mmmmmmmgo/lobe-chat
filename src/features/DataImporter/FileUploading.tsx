@@ -1,3 +1,4 @@
+'use client';
 import { Progress } from 'antd';
 import { useTheme } from 'antd-style';
 import React, { memo } from 'react';

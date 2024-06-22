@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Tag } from '@lobehub/ui';
 import { Badge, Button, Popover } from 'antd';
 import { TooltipPlacement } from 'antd/es/tooltip';

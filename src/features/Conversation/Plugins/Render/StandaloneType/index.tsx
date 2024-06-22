@@ -1,3 +1,4 @@
+'use client';
 import { PluginRequestPayload } from '@lobehub/chat-plugin-sdk';
 import { memo } from 'react';
 

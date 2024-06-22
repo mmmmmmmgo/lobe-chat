@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, ChatHeaderTitle, Markdown } from '@lobehub/ui';
 import { LobeChat } from '@lobehub/ui/brand';
 import { memo } from 'react';

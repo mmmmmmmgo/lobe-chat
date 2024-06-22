@@ -1,3 +1,4 @@
+'use client';
 import { Select, SelectProps } from 'antd';
 import { createStyles } from 'antd-style';
 import isEqual from 'fast-deep-equal';

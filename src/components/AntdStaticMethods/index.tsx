@@ -1,3 +1,4 @@
+'use client';
 // Entry component
 import { App } from 'antd';
 import type { MessageInstance } from 'antd/es/message/interface';

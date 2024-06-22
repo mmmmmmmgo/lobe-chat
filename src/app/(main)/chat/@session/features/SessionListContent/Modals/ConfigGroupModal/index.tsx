@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Modal, type ModalProps, SortableList } from '@lobehub/ui';
 import { Button } from 'antd';
 import { createStyles } from 'antd-style';

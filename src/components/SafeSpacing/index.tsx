@@ -1,3 +1,4 @@
+'use client';
 import { MobileSafeArea, type MobileSafeAreaProps } from '@lobehub/ui';
 import { memo } from 'react';
 

@@ -1,3 +1,4 @@
+'use client';
 import { Button } from 'antd';
 import { createStore, set } from 'idb-keyval';
 import { ReactNode, memo } from 'react';

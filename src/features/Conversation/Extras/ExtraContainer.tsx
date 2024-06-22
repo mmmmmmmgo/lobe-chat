@@ -1,3 +1,4 @@
+'use client';
 import { Divider } from 'antd';
 import { PropsWithChildren, memo } from 'react';
 

@@ -1,3 +1,4 @@
+'use client';
 import Conversation from '@/features/Conversation';
 import { isMobileDevice } from '@/utils/responsive';
 

@@ -1,3 +1,4 @@
+'use client';
 import { Button, Tag } from 'antd';
 import { createStyles } from 'antd-style';
 import Image from 'next/image';

@@ -1,3 +1,4 @@
+'use client';
 import { isMobileDevice } from '@/utils/responsive';
 
 import AgentDetailContent from './features/AgentDetailContent';

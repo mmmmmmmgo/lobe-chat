@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Tooltip } from '@lobehub/ui';
 import { Badge, Tag } from 'antd';
 import { LucideCloudy, LucideRefreshCw, LucideRouter, LucideWifiOff } from 'lucide-react';

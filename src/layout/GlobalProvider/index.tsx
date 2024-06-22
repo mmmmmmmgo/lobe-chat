@@ -15,7 +15,7 @@ import { locales } from '@/locales/resources';
 import { getServerGlobalConfig } from '@/server/globalConfig';
 import { ServerConfigStoreProvider } from '@/store/serverConfig';
 import { getAntdLocale } from '@/utils/locale';
-import { isMobileDevice } from '@/utils/responsive';
+import { isMobileDevice } from '@/utils/responsive-server';
 
 import AppTheme from './AppTheme';
 import Locale from './Locale';

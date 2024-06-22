@@ -1,3 +1,4 @@
+'use client';
 import { Avatar, List, ListItemProps } from '@lobehub/ui';
 import { useHover } from 'ahooks';
 import { createStyles } from 'antd-style';

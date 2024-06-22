@@ -1,3 +1,4 @@
+'use client';
 import { Avatar } from '@lobehub/ui';
 import { Skeleton } from 'antd';
 import { useTheme } from 'antd-style';

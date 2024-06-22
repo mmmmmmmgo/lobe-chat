@@ -1,3 +1,4 @@
+'use client';
 import { ActionIcon, SliderWithInput } from '@lobehub/ui';
 import { Popover, Switch } from 'antd';
 import { Timer, TimerOff } from 'lucide-react';

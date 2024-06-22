@@ -1,3 +1,4 @@
+'use client';
 import { Icon } from '@lobehub/ui';
 import { Collapse, CollapseProps } from 'antd';
 import { createStyles } from 'antd-style';

@@ -1,3 +1,4 @@
+'use client';
 // import TopicListContent from './features/TopicListContent';
 import React, { Suspense, lazy } from 'react';
 

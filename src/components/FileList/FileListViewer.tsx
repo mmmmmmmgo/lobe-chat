@@ -1,3 +1,4 @@
+'use client';
 import { ImageGallery } from '@lobehub/ui';
 import { memo } from 'react';
 

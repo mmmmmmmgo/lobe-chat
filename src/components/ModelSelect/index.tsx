@@ -1,3 +1,4 @@
+'use client';
 import { Icon, Tooltip } from '@lobehub/ui';
 import { createStyles } from 'antd-style';
 import { Infinity, LucideEye, LucidePaperclip, ToyBrick } from 'lucide-react';
